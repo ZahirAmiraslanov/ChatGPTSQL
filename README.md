@@ -1,1 +1,2 @@
 # ChatGPTSQL ProjectStarted
+Infrastructure setup
